@@ -1,0 +1,11 @@
+C:\Users\ili\source\repos\Svetofar\Svetofar\obj\Debug\Svetofar.csproj.AssemblyReference.cache
+C:\Users\ili\source\repos\Svetofar\Svetofar\obj\Debug\Svetofar.csproj.SuggestedBindingRedirects.cache
+C:\Users\ili\source\repos\Svetofar\Svetofar\obj\Debug\Svetofar.Form1.resources
+C:\Users\ili\source\repos\Svetofar\Svetofar\obj\Debug\Svetofar.Properties.Resources.resources
+C:\Users\ili\source\repos\Svetofar\Svetofar\obj\Debug\Svetofar.csproj.GenerateResource.cache
+C:\Users\ili\source\repos\Svetofar\Svetofar\obj\Debug\Svetofar.csproj.CoreCompileInputs.cache
+C:\Users\ili\source\repos\Svetofar\Svetofar\bin\Debug\Svetofar.exe.config
+C:\Users\ili\source\repos\Svetofar\Svetofar\bin\Debug\Svetofar.exe
+C:\Users\ili\source\repos\Svetofar\Svetofar\bin\Debug\Svetofar.pdb
+C:\Users\ili\source\repos\Svetofar\Svetofar\obj\Debug\Svetofar.exe
+C:\Users\ili\source\repos\Svetofar\Svetofar\obj\Debug\Svetofar.pdb
